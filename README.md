@@ -1,7 +1,6 @@
 # TACT-Net: Triple-Tier Attention-integrated Compact Transformer Network for COVID-19 Prediction in CT Scans
 
-## Submitted to IbPRIA 2025: 12th Iberian Conference on Pattern Recognition and Image Analysis.
-## Original code will be made available post publication.
+## Accepted for Publication at the 6th International Conference on Frontiers in Computing and Systems (COMSYS)
 
 
 The global impact of COVID-19 points out the need of a
